@@ -1,0 +1,9 @@
+/media/splagadou/SVG/Projets en cours/RUST/rust_test_crud/target/debug/deps/liblinux_raw_sys-c1c1989cdbf31631.rmeta: /home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/lib.rs /home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/elf.rs /home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/errno.rs /home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/general.rs /home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/ioctl.rs
+
+/media/splagadou/SVG/Projets en cours/RUST/rust_test_crud/target/debug/deps/linux_raw_sys-c1c1989cdbf31631.d: /home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/lib.rs /home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/elf.rs /home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/errno.rs /home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/general.rs /home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/ioctl.rs
+
+/home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/lib.rs:
+/home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/elf.rs:
+/home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/errno.rs:
+/home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/general.rs:
+/home/splagadou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/linux-raw-sys-0.4.13/src/x86_64/ioctl.rs:
